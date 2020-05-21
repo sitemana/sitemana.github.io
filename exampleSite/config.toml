@@ -1,5 +1,5 @@
 baseURL = "https://sitemana.netlify.app"
-languageCode = "en-us"
+languageCode = "it-IT"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Sitemana"
