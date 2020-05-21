@@ -1,7 +1,7 @@
 baseURL = "https://sitemana.netlify.app"
 languageCode = "it-IT"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "Sitemana-theme"
 title = "Sitemana"
 [[menu.main]]
 name = "Test"
