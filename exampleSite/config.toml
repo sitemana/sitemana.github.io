@@ -54,7 +54,7 @@ preloader = "/images/preloader.gif"
 URL = "https://facebook.com/lantoniotrento"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://instagram.com/lantoniotrento"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
