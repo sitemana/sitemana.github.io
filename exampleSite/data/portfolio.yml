@@ -39,7 +39,7 @@ item:
   - branding
 - title: Portfolio Item
   image: images/portfolio/item-3.png
-  project_url: "#"
+  project_url: http://examplesite.com
   categories:
   - illustration
   - development
