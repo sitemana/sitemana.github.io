@@ -29,7 +29,7 @@ item:
   - development
 - title: Portfolio Item
   image: images/portfolio/item-6.png
-  project_url: "#"
+  project_url: http://examplesite.com
   categories:
   - design
 - title: Portfolio Item
