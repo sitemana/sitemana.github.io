@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "Sitemana-theme"
 title = "Sitemana"
 [[menu.main]]
-name = "Test"
-url = "https://antoniotrento.net"
-weight = 5
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
