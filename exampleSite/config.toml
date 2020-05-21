@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://sitemana.github.io"
+baseURL = "https://sitemana.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
