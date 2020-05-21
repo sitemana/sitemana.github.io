@@ -51,7 +51,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = "/images/preloader.gif"
 [[params.social]]
-URL = "facebook.com/lantoniotrento"
+URL = "https://facebook.com/lantoniotrento"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
