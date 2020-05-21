@@ -60,5 +60,5 @@ icon = "ti-instagram"
 URL = "https://pinterest.com/lantoniotrento"
 icon = "ti-pinterest"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/lantoniotrento"
 icon = "ti-twitter-alt"
