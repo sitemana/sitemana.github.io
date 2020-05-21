@@ -18,7 +18,7 @@ item:
   - illustration
 - title: Portfolio Item
   image: images/portfolio/item-5.png
-  project_url: "#"
+  project_url: http://examplesite.com
   categories:
   - design
 - title: Portfolio Item
